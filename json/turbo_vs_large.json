@@ -1,0 +1,502 @@
+[
+    {
+        "audio": "002_chunk007",
+        "turbo_cosine": 0.9572823584128629,
+        "large_cosine": 0.929247918026488
+    },
+    {
+        "audio": "002_chunk018",
+        "turbo_cosine": 0.953960659393575,
+        "large_cosine": 0.9336145168185399
+    },
+    {
+        "audio": "002_chunk019",
+        "turbo_cosine": 0.8942703552941973,
+        "large_cosine": 0.9438484263852629
+    },
+    {
+        "audio": "004_chunk005",
+        "turbo_cosine": 0.9035707643176093,
+        "large_cosine": 0.9402276642616061
+    },
+    {
+        "audio": "005_chunk002",
+        "turbo_cosine": 0.9724508451787988,
+        "large_cosine": 0.9506937296805476
+    },
+    {
+        "audio": "006_chunk001",
+        "turbo_cosine": 0.7912139277289701,
+        "large_cosine": 0.9527351192717398
+    },
+    {
+        "audio": "007_chunk002",
+        "turbo_cosine": 0.9633649624104953,
+        "large_cosine": 0.9360947414128229
+    },
+    {
+        "audio": "008_chunk002",
+        "turbo_cosine": 0.9036114644738403,
+        "large_cosine": 0.8032587057493321
+    },
+    {
+        "audio": "008_chunk015",
+        "turbo_cosine": 0.6761592310210648,
+        "large_cosine": 0.7501741820029264
+    },
+    {
+        "audio": "008_chunk018",
+        "turbo_cosine": 0.9191694450976635,
+        "large_cosine": 0.7945435191284353
+    },
+    {
+        "audio": "008_chunk022",
+        "turbo_cosine": 0.8232217110672224,
+        "large_cosine": 0.7940722760699608
+    },
+    {
+        "audio": "008_chunk023",
+        "turbo_cosine": 0.6958991480288448,
+        "large_cosine": 0.4764329276308092
+    },
+    {
+        "audio": "012_chunk001",
+        "turbo_cosine": 0.8777104642478998,
+        "large_cosine": 0.8367422552677072
+    },
+    {
+        "audio": "013_chunk003",
+        "turbo_cosine": 0.9599678106077254,
+        "large_cosine": 0.9471396403447709
+    },
+    {
+        "audio": "013_chunk021",
+        "turbo_cosine": 0.9197547634214476,
+        "large_cosine": 0.9560859730225159
+    },
+    {
+        "audio": "013_chunk029",
+        "turbo_cosine": 0.95569610919058,
+        "large_cosine": 0.9495121710803739
+    },
+    {
+        "audio": "013_chunk035",
+        "turbo_cosine": 0.9504851955283721,
+        "large_cosine": 0.936433803457487
+    },
+    {
+        "audio": "013_chunk041",
+        "turbo_cosine": 0.9598046622493813,
+        "large_cosine": 0.9524841484867261
+    },
+    {
+        "audio": "013_chunk056",
+        "turbo_cosine": 0.9580016937360916,
+        "large_cosine": 0.9261361404825904
+    },
+    {
+        "audio": "013_chunk058",
+        "turbo_cosine": 0.9402535118479616,
+        "large_cosine": 0.8492367613357878
+    },
+    {
+        "audio": "013_chunk070",
+        "turbo_cosine": 0.9491740737504032,
+        "large_cosine": 0.9637306280800574
+    },
+    {
+        "audio": "013_chunk071",
+        "turbo_cosine": 0.9732086169649428,
+        "large_cosine": 0.8713885545070807
+    },
+    {
+        "audio": "013_chunk085",
+        "turbo_cosine": 0.9502000884082253,
+        "large_cosine": 0.939512646789103
+    },
+    {
+        "audio": "013_chunk086",
+        "turbo_cosine": 0.9338993622345636,
+        "large_cosine": 0.9288833028308181
+    },
+    {
+        "audio": "013_chunk101",
+        "turbo_cosine": 0.965830750492685,
+        "large_cosine": 0.955259476028403
+    },
+    {
+        "audio": "013_chunk105",
+        "turbo_cosine": 0.9200384556743565,
+        "large_cosine": 0.9344893719830694
+    },
+    {
+        "audio": "013_chunk122",
+        "turbo_cosine": 0.9141509436946669,
+        "large_cosine": 0.8235556485121505
+    },
+    {
+        "audio": "013_chunk123",
+        "turbo_cosine": 0.970977404888215,
+        "large_cosine": 0.91846857443947
+    },
+    {
+        "audio": "013_chunk134",
+        "turbo_cosine": 0.9886331932733703,
+        "large_cosine": 0.8707345181912407
+    },
+    {
+        "audio": "013_chunk155",
+        "turbo_cosine": 0.9333993926597658,
+        "large_cosine": 0.862593229194331
+    },
+    {
+        "audio": "013_chunk158",
+        "turbo_cosine": 0.9843905637359871,
+        "large_cosine": 0.9298837733796288
+    },
+    {
+        "audio": "016_chunk005",
+        "turbo_cosine": 0.964257130820886,
+        "large_cosine": 0.9735070823570178
+    },
+    {
+        "audio": "016_chunk010",
+        "turbo_cosine": 0.9421246172652115,
+        "large_cosine": 0.9723541311099037
+    },
+    {
+        "audio": "016_chunk035",
+        "turbo_cosine": 0.9290469611659797,
+        "large_cosine": 0.9570917296034884
+    },
+    {
+        "audio": "016_chunk045",
+        "turbo_cosine": 0.8682626171279184,
+        "large_cosine": 0.9145226028116227
+    },
+    {
+        "audio": "016_chunk052",
+        "turbo_cosine": 0.9204309434089051,
+        "large_cosine": 0.8909071168779095
+    },
+    {
+        "audio": "016_chunk059",
+        "turbo_cosine": 0.975307857101059,
+        "large_cosine": 0.9469398794591422
+    },
+    {
+        "audio": "016_chunk103",
+        "turbo_cosine": 0.9585236337833992,
+        "large_cosine": 0.9582163501577302
+    },
+    {
+        "audio": "016_chunk104",
+        "turbo_cosine": 0.9386459300605812,
+        "large_cosine": 0.8917163644578002
+    },
+    {
+        "audio": "016_chunk106",
+        "turbo_cosine": 0.8645479110657072,
+        "large_cosine": 0.8927301122656117
+    },
+    {
+        "audio": "016_chunk109",
+        "turbo_cosine": 0.9520940694141324,
+        "large_cosine": 0.9513675041982493
+    },
+    {
+        "audio": "016_chunk112",
+        "turbo_cosine": 0.8439953141011536,
+        "large_cosine": 0.9321581080595887
+    },
+    {
+        "audio": "016_chunk129",
+        "turbo_cosine": 0.9185373904567795,
+        "large_cosine": 0.8683303935356113
+    },
+    {
+        "audio": "016_chunk135",
+        "turbo_cosine": 0.9431422265230603,
+        "large_cosine": 0.9489156046755014
+    },
+    {
+        "audio": "017_chunk009",
+        "turbo_cosine": 0.9150495284679696,
+        "large_cosine": 0.9584845752764048
+    },
+    {
+        "audio": "017_chunk013",
+        "turbo_cosine": 0.9558206323649019,
+        "large_cosine": 0.948385439315574
+    },
+    {
+        "audio": "017_chunk020",
+        "turbo_cosine": 0.9389019455052665,
+        "large_cosine": 0.8710101026219976
+    },
+    {
+        "audio": "017_chunk025",
+        "turbo_cosine": 0.9155217456869336,
+        "large_cosine": 0.9320564531448916
+    },
+    {
+        "audio": "017_chunk047",
+        "turbo_cosine": 0.9431781580339987,
+        "large_cosine": 0.9418054221518991
+    },
+    {
+        "audio": "017_chunk049",
+        "turbo_cosine": 0.9240320602743537,
+        "large_cosine": 0.7957888072624834
+    },
+    {
+        "audio": "017_chunk053",
+        "turbo_cosine": 0.9758719312364733,
+        "large_cosine": 0.869222110786229
+    },
+    {
+        "audio": "017_chunk058",
+        "turbo_cosine": 0.9778999562758751,
+        "large_cosine": 0.9100495543717502
+    },
+    {
+        "audio": "017_chunk067",
+        "turbo_cosine": 0.9839606380608708,
+        "large_cosine": 0.9774119496984125
+    },
+    {
+        "audio": "017_chunk088",
+        "turbo_cosine": 0.9430140417290367,
+        "large_cosine": 0.9376668133218177
+    },
+    {
+        "audio": "017_chunk103",
+        "turbo_cosine": 0.9110993897906579,
+        "large_cosine": 0.8799066085931528
+    },
+    {
+        "audio": "017_chunk106",
+        "turbo_cosine": 0.9394292680457274,
+        "large_cosine": 0.9386661471636495
+    },
+    {
+        "audio": "017_chunk107",
+        "turbo_cosine": 0.9614712622382803,
+        "large_cosine": 0.944642491038142
+    },
+    {
+        "audio": "017_chunk131",
+        "turbo_cosine": 0.9414492238167511,
+        "large_cosine": 0.953035024580806
+    },
+    {
+        "audio": "017_chunk141",
+        "turbo_cosine": 0.8901683111476492,
+        "large_cosine": 0.9156998504564693
+    },
+    {
+        "audio": "017_chunk152",
+        "turbo_cosine": 0.9788951746952756,
+        "large_cosine": 0.9315550509050756
+    },
+    {
+        "audio": "017_chunk154",
+        "turbo_cosine": 0.9249971819700749,
+        "large_cosine": 0.8826817633369851
+    },
+    {
+        "audio": "017_chunk173",
+        "turbo_cosine": 0.9372357675750509,
+        "large_cosine": 0.9044310420448525
+    },
+    {
+        "audio": "017_chunk201",
+        "turbo_cosine": 0.9759441664789288,
+        "large_cosine": 0.97421786773769
+    },
+    {
+        "audio": "018_chunk001",
+        "turbo_cosine": 0.9423131084114161,
+        "large_cosine": 0.9026456954546076
+    },
+    {
+        "audio": "018_chunk004",
+        "turbo_cosine": 0.9173027402924063,
+        "large_cosine": 0.8993379887679992
+    },
+    {
+        "audio": "018_chunk017",
+        "turbo_cosine": 0.9513903649969739,
+        "large_cosine": 0.9659790090061984
+    },
+    {
+        "audio": "018_chunk040",
+        "turbo_cosine": 0.9303201031499755,
+        "large_cosine": 0.9522048548870305
+    },
+    {
+        "audio": "018_chunk043",
+        "turbo_cosine": 0.961839797560157,
+        "large_cosine": 0.9721467333727818
+    },
+    {
+        "audio": "018_chunk050",
+        "turbo_cosine": 0.9452401444679408,
+        "large_cosine": 0.9458251653995579
+    },
+    {
+        "audio": "018_chunk056",
+        "turbo_cosine": 0.3241535185130117,
+        "large_cosine": 0.888931755448273
+    },
+    {
+        "audio": "019_chunk005",
+        "turbo_cosine": 0.924062303575556,
+        "large_cosine": 0.9377126718698319
+    },
+    {
+        "audio": "019_chunk006",
+        "turbo_cosine": 0.9651953736839203,
+        "large_cosine": 0.8845669083125289
+    },
+    {
+        "audio": "019_chunk015",
+        "turbo_cosine": 0.9763125160140942,
+        "large_cosine": 0.9612768507988703
+    },
+    {
+        "audio": "019_chunk061",
+        "turbo_cosine": 0.9547069945843261,
+        "large_cosine": 0.9029558864977194
+    },
+    {
+        "audio": "019_chunk063",
+        "turbo_cosine": 0.8368404679545849,
+        "large_cosine": 0.9154613110012255
+    },
+    {
+        "audio": "019_chunk081",
+        "turbo_cosine": 0.9684146141071281,
+        "large_cosine": 0.9606786559067417
+    },
+    {
+        "audio": "019_chunk083",
+        "turbo_cosine": 0.9838061975049159,
+        "large_cosine": 0.9838814597459247
+    },
+    {
+        "audio": "020_chunk033",
+        "turbo_cosine": 0.9029730114647969,
+        "large_cosine": 0.9326601508079926
+    },
+    {
+        "audio": "020_chunk037",
+        "turbo_cosine": 0.9417994878031137,
+        "large_cosine": 0.9220059039723109
+    },
+    {
+        "audio": "020_chunk039",
+        "turbo_cosine": 0.9672545422255499,
+        "large_cosine": 0.9796417903456819
+    },
+    {
+        "audio": "020_chunk041",
+        "turbo_cosine": 0.9682777164320027,
+        "large_cosine": 0.9566618622144654
+    },
+    {
+        "audio": "020_chunk043",
+        "turbo_cosine": 0.9638352004406792,
+        "large_cosine": 0.9406369511470792
+    },
+    {
+        "audio": "020_chunk050",
+        "turbo_cosine": 0.9806799156132745,
+        "large_cosine": 0.9603516490442867
+    },
+    {
+        "audio": "020_chunk056",
+        "turbo_cosine": 0.9706050074710693,
+        "large_cosine": 0.939336472589405
+    },
+    {
+        "audio": "021_chunk009",
+        "turbo_cosine": 0.7918463485769849,
+        "large_cosine": 0.9835613919553681
+    },
+    {
+        "audio": "021_chunk014",
+        "turbo_cosine": 0.971659423188118,
+        "large_cosine": 0.8566902863915351
+    },
+    {
+        "audio": "021_chunk015",
+        "turbo_cosine": 0.91283986987455,
+        "large_cosine": 0.9278675180187774
+    },
+    {
+        "audio": "021_chunk018",
+        "turbo_cosine": 0.9535221606718836,
+        "large_cosine": 0.9336300839755161
+    },
+    {
+        "audio": "021_chunk021",
+        "turbo_cosine": 0.9728285315640989,
+        "large_cosine": 0.8853793415273912
+    },
+    {
+        "audio": "021_chunk030",
+        "turbo_cosine": 0.9465473647999567,
+        "large_cosine": 0.8897047050880524
+    },
+    {
+        "audio": "021_chunk040",
+        "turbo_cosine": 0.9582885058818413,
+        "large_cosine": 0.9477232095737298
+    },
+    {
+        "audio": "021_chunk042",
+        "turbo_cosine": 0.9414097584956572,
+        "large_cosine": 0.9484613712229046
+    },
+    {
+        "audio": "021_chunk044",
+        "turbo_cosine": 0.9693051862796376,
+        "large_cosine": 0.9255353666841926
+    },
+    {
+        "audio": "022_chunk003",
+        "turbo_cosine": 0.9603640931086407,
+        "large_cosine": 0.9385795070548159
+    },
+    {
+        "audio": "022_chunk006",
+        "turbo_cosine": 0.9289194945747554,
+        "large_cosine": 0.9556648759941562
+    },
+    {
+        "audio": "022_chunk009",
+        "turbo_cosine": 0.9885761392409121,
+        "large_cosine": 0.8337609607158891
+    },
+    {
+        "audio": "022_chunk015",
+        "turbo_cosine": 0.9655873057342921,
+        "large_cosine": 0.8761239850866955
+    },
+    {
+        "audio": "022_chunk027",
+        "turbo_cosine": 0.908583617446457,
+        "large_cosine": 0.9209753458082782
+    },
+    {
+        "audio": "022_chunk035",
+        "turbo_cosine": 0.9070396761702845,
+        "large_cosine": 0.8864762116061372
+    },
+    {
+        "audio": "022_chunk055",
+        "turbo_cosine": 0.8420667586987448,
+        "large_cosine": 0.9375560813821189
+    }
+]
