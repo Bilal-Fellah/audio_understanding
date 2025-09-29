@@ -98,7 +98,7 @@ class SpeechRecognitionForClassification:
         """
         prompt = (
             f"The following {language} text may include more than one speaker. "
-            f"Classify it into: {self.classes}. "
+            f"Understand the general topics, and based on that classify this text into: {self.classes}. "
             f"Allow multiple classes and return only a Python list "
             f"(response must start with [ and end with ]). \nText:\n{text}"
         )
